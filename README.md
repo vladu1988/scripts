@@ -8,4 +8,4 @@ Invocation:
 ./start-webdev.sh
 ```
 
-When done, simplpy press Enter and all services will be stopped.
+When done, simply press Enter and all services will be stopped.
